@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pavel(@B2_T2)
-- 👀 I’m interested in Web development and working with Python
+- 👀 I’m interested in working with Python
 - 🌱 I’m currently learning web development
 - ⚡ Fun fact: I like jellyfish.
 
